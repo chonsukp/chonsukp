@@ -1,4 +1,4 @@
-## <p align="center"> Hi there! My name is Chonny Sukpranee (C) 💭
+## <p align="center"> Hi there! My name is Chonny Sukpranee 💭
 
 #### <p align="center"> Current student @ [_Coder Academy_](https://coderacademy.edu.au/) - Full Stack Web Development Bootcamp
 ---
