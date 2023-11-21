@@ -5,7 +5,7 @@
 
 ### About me:
 *   📍  Based in Bisbane
-*   🎓  Recent Design Graduate at the Queensland University of Technology
+*   🎓  Design Graduate at the Queensland University of Technology
 
 ---
 
