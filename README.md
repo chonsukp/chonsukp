@@ -19,7 +19,7 @@
 ### What I'm up to:
 *   🗂  Recent project: [My Portfolio Website](http://chonsukp.netlify.app)
 *   🔭  Currently working on _Terminal Application (Industry simulated project)_
-*   🌱  Currenty learning <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18" height="18" alt="Git" /></a>
+*   🌱  Currenty learning <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18" height="18" alt="Git" /></a>
 
 ---
 
