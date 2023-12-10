@@ -4,9 +4,7 @@
 ---
 
 ### About me:
-*   📍  Based in Bisbane
 *   🎓  Design Graduate at the Queensland University of Technology
-*   🎨  Design
 *   🎞️  Photography & Videography
 *   🏃🏾  Fitness
 
