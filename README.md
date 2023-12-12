@@ -1,18 +1,15 @@
 ## <p align="center"> Hi there! My name is Chonny Sukpranee 💭
 
-#### <p align="center"> Current student @ [_Coder Academy_](https://coderacademy.edu.au/) - Aspiring Full Stack Web Developer
+#### <p align="center"> Current student @ [_Coder Academy_](https://coderacademy.edu.au/)
 ---
 
 ### About me:
-*   🎓  Design Graduate at the Queensland University of Technology
-*   🎞️  Photography & Videography
-*   🏃🏾  Fitness
-
+I'm a design graduate from Queensland University of Technology passionate about all things design and tech. My goal is to bring a fresh perspective to tech solutions!
 ---
 
 ### What I'm up to:
 *   🗂  Recent project: [My Portfolio Website](http://chonsukp.netlify.app)
-*   🔭  Currently working on _Terminal Application (Industry simulated project)_
+*   🔭  Currently working on a Terminal Application using Python. 
 *   🌱  Currenty learning <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="18" height="18" alt="Git" /></a>
 
 ---
