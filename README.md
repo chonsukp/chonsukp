@@ -3,8 +3,10 @@
 #### <p align="center"> Current student @ [_Coder Academy_](https://coderacademy.edu.au/)
 ---
 
-### About me:
+### About me:  
+
 I'm a design graduate from Queensland University of Technology passionate about all things design and tech. My goal is to bring a fresh perspective to tech solutions!
+
 ---
 
 ### What I'm up to:
