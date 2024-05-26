@@ -1,4 +1,4 @@
-### <p align="center"> Hi there! I'm Chonny :thought_balloon:
+### <p align="center"> Hi there! I'm Chonny (C) :thought_balloon:
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 ### <p align="center"> Junior Full-Stack Developer 
@@ -6,10 +6,16 @@
 ---
 ### About me:  
 
-*  Current student at [Coder Academy](https://coderacademy.edu.au/), completing a Diploma of IT (Web Developement)
+*  Current student at [Coder Academy](https://coderacademy.edu.au/), completing a Diploma of IT (Web Development)
 *  Completed a Bachelor of Design at the [Queensland University of Technology](https://www.qut.edu.au/) 
 *  When I'm not coding you can find me out running or at the gym
-*  Reach me chonsukp@gmail.com
+
+### Interests:
+
+* Self Development
+* Running / Gym
+* Photography / Videography / 3D arts
+* Architecture / Interior design
 
 ---
 ### I'm currently learning:
@@ -23,3 +29,5 @@
 
 ### Socials:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chonsukp) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/chonsukp)
+
+:postbox: Reach me chonsukp@gmail.com
