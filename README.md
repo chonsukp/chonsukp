@@ -27,7 +27,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chonsukp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chonsukp) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/chonsukp)
+### Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chonsukp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sd) 
 
-:postbox: Reach me chonsukp@gmail.com
+:postbox: chonsukp@gmail.com
