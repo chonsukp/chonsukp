@@ -1,7 +1,7 @@
 ### <p align="center"> Hi there! I'm Chonny (C) :thought_balloon:
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### <p align="center"> Junior Full-Stack Developer 
+### <p align="center"> Junior Full Stack Developer 
 
 ---
 ### About me:  
