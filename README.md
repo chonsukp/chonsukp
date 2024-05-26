@@ -7,7 +7,7 @@
 ### About me:  
 
 *  Current student at [Coder Academy](https://coderacademy.edu.au/), completing a Diploma of IT (Web Development)
-*  Completed a Bachelor of Design at the [Queensland University of Technology](https://www.qut.edu.au/) 
+*  Completed a Bachelor of Design at [Queensland University of Technology](https://www.qut.edu.au/) 
 *  Customer Care at [Web Central Australia](https://webcentral.au/) 
 
 ### Interests:
