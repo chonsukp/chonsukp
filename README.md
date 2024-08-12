@@ -12,6 +12,8 @@
 
 ### Interests:
 
+* Tech
+* Web developement / Design
 * Self development
 * Health / Fitness
 * Photography / Videography / 3D arts
