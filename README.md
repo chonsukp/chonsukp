@@ -13,7 +13,7 @@
 ### Interests:
 
 * Self development
-* Running / Gym
+* Health / Fitness
 * Photography / Videography / 3D arts
 * Architecture / Interior design
 
