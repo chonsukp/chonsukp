@@ -29,7 +29,7 @@
 
 ---
 ### Languages / Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,python,blender,figma,illustrator,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,sass,python,flask,postgresql,blender,figma,illustrator,photoshop)](https://skillicons.dev)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chonsukp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
