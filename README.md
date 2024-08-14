@@ -25,7 +25,7 @@
 
 ---
 ### I'm currently learning:
-[![My Skills](https://skillicons.dev/icons?i=javascript,mongodb,expressjs,reactjs,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,mongodb,expressjs,react,nodejs)](https://skillicons.dev)
 
 ---
 ### Languages / Tools:
