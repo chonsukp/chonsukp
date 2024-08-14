@@ -8,7 +8,7 @@
 
 *  Current student at [Coder Academy](https://coderacademy.edu.au/), completing a Diploma of IT (Web Development)
 *  Completed a Bachelor of Design at [Queensland University of Technology](https://www.qut.edu.au/) 
-*  Customer Care Representative at [Webcentral](https://webcentral.au/) 
+*  Customer Care Representative at [Webcentral Group](https://webcentral.au/) 
 
 ### Interests:
 
