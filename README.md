@@ -10,15 +10,6 @@
 *  Completed a Bachelor of Design at [Queensland University of Technology](https://www.qut.edu.au/) 
 *  Current customer care representative at [World Host Group](https://worldhost.group/) 
 
-### Interests:
-
-* Tech
-* Web developement / Design
-* Self development
-* Health / Fitness
-* Photography / Videography / 3D arts
-* Architecture / Interior design
-
 ### Contact:
 * 📮 contact@chonsukp.com  
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chonsukp) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chonsukp) 
